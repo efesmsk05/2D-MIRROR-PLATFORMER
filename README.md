@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🎮 [Oyunun Adı Buraya]
-### 2D Co-Op Multiplayer Platformer
+# 🎮 [2D Co-Op Multiplayer Platformer]
 
 ![Start](https://github.com/user-attachments/assets/d8d87d5e-6ed1-44b7-88f3-440d9974643a)
 
@@ -41,10 +40,12 @@ Bu projede Unity'nin Mirror kütüphanesi kullanılarak şu teknik yapılar kuru
 
 <div align="center">
   <a href="BURAYA_YOUTUBE_VIDEO_LINKI">
-    <img src="BURAYA_KAPAK_FOTOGRAFI_LINKI" width="100%" />
     
 
-https://github.com/user-attachments/assets/48f88728-917d-4cb7-9d1d-4452f8d773e0
+https://github.com/user-attachments/assets/04436799-f539-4f90-a796-6fbbfe9f215b
+
+
+
 
 
   </a>
