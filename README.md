@@ -3,6 +3,9 @@
 # 🎮 [Oyunun Adı Buraya]
 ### 2D Co-Op Multiplayer Platformer
 
+![Start](https://github.com/user-attachments/assets/d8d87d5e-6ed1-44b7-88f3-440d9974643a)
+
+
 ![Cover](BURAYA_ANA_GIF_LINKI.gif)
 
 **Unity** • **Mirror Networking** • **C#**
@@ -38,13 +41,12 @@ Bu projede Unity'nin Mirror kütüphanesi kullanılarak şu teknik yapılar kuru
 
 ## 📸 Oynanış & Mekanikler
 
-### 1. Karakter Senkronizasyonu
-![Movement](BURAYA_GIF_LINKI_1.gif)
+### 1. Oynanış
+,
 
-### 2. Etkileşim Sistemi ([Command] Örneği)
-![Interaction](BURAYA_GIF_LINKI_2.gif)
 
 ---
+
 
 ## 🚀 Kurulum ve Test
 Bu proje yerel ağ (LAN) veya Localhost üzerinde test edilebilir.
