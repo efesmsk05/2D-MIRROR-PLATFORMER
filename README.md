@@ -43,8 +43,6 @@ Bu projede Unity'nin Mirror kütüphanesi kullanılarak şu teknik yapılar kuru
 
 <div align="center">
   <h3>1. Oynanış</h3>
-  <img src="https://github.com/user-attachments/assets/aacc0a85-cdaf-4aa9-8e15-2649f02fdd95" width="20%" />
-
   https://github.com/user-attachments/assets/48570f0a-d461-4eb5-8009-347f850f7ff4
 
 </div>
