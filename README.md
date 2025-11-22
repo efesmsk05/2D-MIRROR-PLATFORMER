@@ -41,6 +41,8 @@ Bu projede Unity'nin Mirror kütüphanesi kullanılarak şu teknik yapılar kuru
 
 ## 📸 Oynanış & Mekanikler
 
+![mirroGameplay](https://github.com/user-attachments/assets/aacc0a85-cdaf-4aa9-8e15-2649f02fdd95)
+
 ### 1. Oynanış
 ,
 
