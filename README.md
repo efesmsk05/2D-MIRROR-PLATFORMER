@@ -15,7 +15,7 @@
 ---
 
 ## 📝 Proje Hakkında
-**[Oyunun Adı]**, arkadaşlarınızla birlikte engelleri aşıp bulmacaları çözdüğünüz 2 kişilik bir 2D platform oyunudur. Bu proje, **gerçek zamanlı veri senkronizasyonu** ve **sunucu tabanlı (server-authoritative)** oyun mimarisini öğrenmek amacıyla geliştirilmiştir.
+Arkadaşınızla birlikte engelleri aşıp bulmacaları çözdüğünüz 2 kişilik bir 2D platform oyunudur. Bu proje, **gerçek zamanlı veri senkronizasyonu** ve **sunucu tabanlı (server-authoritative)** oyun mimarisini öğrenmek amacıyla geliştirilmiştir.
 
 ---
 
